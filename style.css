@@ -9,10 +9,16 @@ body{
     background-size: cover;
     height: 200vh;
 }
+html{
+    font-size: 62.5%;
+}
 .navbar{
     background-color: black;
 }
 .pizzaimgnav{
     height: 50px;
     cursor: default;
+}
+.nav-link{
+    font-size: 2rem;
 }
