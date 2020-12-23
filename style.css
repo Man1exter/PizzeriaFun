@@ -4,8 +4,13 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url('/abstraction-3779581_1920.jpg');
+    background-image: url('/wood-411643_1920.jpg');
     background-position: center;
     background-size: cover;
     height: 200vh;
+}
+
+.pizzaimgnav{
+    height: 50px;
+    cursor: default;
 }
