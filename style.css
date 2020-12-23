@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-image: url('/abstraction-3779581_1920.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 200vh;
+}
