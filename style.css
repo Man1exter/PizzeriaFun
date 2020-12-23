@@ -9,7 +9,9 @@ body{
     background-size: cover;
     height: 200vh;
 }
-
+.navbar{
+    background-color: black;
+}
 .pizzaimgnav{
     height: 50px;
     cursor: default;
