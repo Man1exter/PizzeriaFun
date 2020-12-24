@@ -29,8 +29,6 @@ html{
 }
 .local{
     height: 475px;
-    background-position: center;
-    background-size: cover;
 }
 .localtext{
     font-size: 3rem;
