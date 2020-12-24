@@ -23,3 +23,15 @@ html{
 .nav-link{
     font-size: 2rem;
 }
+.banner{
+    margin-top: 6.5rem;
+    font-size: 2rem;
+}
+.local{
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+}
+.titlelocal{
+    font-size: 5rem;
+}
