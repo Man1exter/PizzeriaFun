@@ -24,7 +24,7 @@ html{
     font-size: 2rem;
 }
 .banner{
-    margin-top: 6.6rem;
+    margin-top: 6.64rem;
     font-size: 2rem;
 }
 .local{
@@ -32,6 +32,11 @@ html{
     background-position: center;
     background-size: cover;
 }
-.titlelocal{
-    font-size: 5rem;
+.localtext{
+    font-size: 3rem;
+}
+.card-img-overlay{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
